@@ -2,4 +2,5 @@
   "name": "my-php-app",
   "description": "Simple PHP site for Render",
   "require": {}
+  "php":"^8.2"
 }
